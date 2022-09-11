@@ -1,2 +1,6 @@
 this is my second file
+<<<<<<< HEAD
 Doing changes in local repom to learn merge command
+=======
+
+>>>>>>> 45ccb753ce2165f4cfe8deeaaa1f525eaf10cfe3
